@@ -13,7 +13,7 @@ Top 10 Sites for your Job Search
 
 Sites to get an Internship
 
-1. LinkedIn
+1. [LinkedIn](https://www.linkedin.com)
 2. Indeed
 3. Internships
 4. Glassdoor
